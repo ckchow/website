@@ -1,5 +1,5 @@
 +++
-title = "Run and Recurring Run"
+title = "Run a Recurring Run"
 description = "Conceptual overview of runs in Kubeflow Pipelines"
 weight = 50
                     
